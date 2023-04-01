@@ -4,7 +4,8 @@
     "description": "![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)",
     "main": "index.js",
     "scripts": {
-        "start": "vite"
+        "start": "vite",
+        "build": "tailwind build input.css -o dist/tailwind.css"
     },
     "keywords": [],
     "author": "",
