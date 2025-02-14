@@ -546,11 +546,6 @@ video {
   display: contents;
 }
 
-.h-max {
-  height: -moz-max-content;
-  height: max-content;
-}
-
 .h-screen {
   height: 100vh;
 }
